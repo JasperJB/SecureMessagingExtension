@@ -1,12 +1,14 @@
 # SecureMessagingExtension
 A chrome extension that uses AES-GCM encoding and a local encryption key encoded with PBKDF2 fixed salt.
 
-To download and enable this extension:
+# To download and enable this extension:
 
-FIRST
+# FIRST
+
   Download and unzip package contents. Leave these in a folder and remember where it is.
 
-SECOND
+# SECOND
+
   Go to chrome://extensions
   Enable Developer Mode
   Click "Load Unpacked" and navigate to the unpacked zip folder. Select it.
