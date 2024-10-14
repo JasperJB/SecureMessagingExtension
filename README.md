@@ -1,5 +1,5 @@
 # SecureMessagingExtension
-A chrome extension that uses AES-GCM encoding and a local encryption key encoded with PBKDF2 fixed salt.
+A chrome extension that uses AES-GCM local encoding and a local encryption key encoded with PBKDF2 fixed salt. This extension allows you and your friends to send and recieve encrypted messages without ever presenting the plaintext to the cloud or your messaging service of choice.
 
 # To download and enable this extension:
 
